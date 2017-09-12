@@ -5,14 +5,6 @@ import profile from '../../profile.jpg'
 
 class Header extends Component {
     render() {
-        // const style = {
-        //     navbar : {
-        //         display: 'inline-block'
-        //     },
-        //     search : {
-        //         padding : 0
-        //         }
-        // }
         return (
             <Navbar inverse fixedTop='true'>
                 <Navbar.Header>
