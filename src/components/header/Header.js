@@ -28,6 +28,7 @@ class Header extends Component {
                     <NavItem>Upload</NavItem>
                     <NavItem>
                         <Image src={profile} style={{ width: 26,height: 26 }}circle />
+			Akash Kathiriya
                     </NavItem>
                 </Nav>
             </Navbar>
