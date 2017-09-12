@@ -1,0 +1,7 @@
+#navBarSearchForm input[type=text] {
+    width:500px !important;
+}
+
+#navItemSearch {
+    padding: 0px !important;
+}
