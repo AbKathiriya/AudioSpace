@@ -6,7 +6,7 @@ import profile from '../../profile.jpg'
 class Header extends Component {
     render() {
         return (
-            <Navbar inverse fixedTop='true'>
+            <Navbar inverse fixedTop='false' >
                 <Navbar.Header>
                   <Navbar.Brand>AudioSpace</Navbar.Brand>
                 </Navbar.Header>
