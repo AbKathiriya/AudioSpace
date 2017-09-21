@@ -1,4 +1,6 @@
 .detailspage{
   background-color: #FFF;
   min-height: 100vh;
+  width: 1170px;
+  margin: auto;
 }
